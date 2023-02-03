@@ -12,10 +12,10 @@
 
 ### Connect with me:
 
-
+&nbsp;&nbsp;
 [![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/gavin-kariuki/#gh-light-mode-only)
 [![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gavin-kariuki/#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 ### Languages and Tools:
 
