@@ -37,7 +37,9 @@
 ### Hours coded this week:
 &nbsp;&nbsp;
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2026%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1332-blue)
 <!--END_SECTION:waka-->
 
 <br />
