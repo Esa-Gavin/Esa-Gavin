@@ -1,6 +1,6 @@
 # Hi there, I'm Gavin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a> 
 
-[![Website](https://img.shields.io/website?label=GitHub&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Esa-Gavin)
+[![Website](https://img.shields.io/website?)](https://github.com/Esa-Gavin)
 ![Hiring Status](https://img.shields.io/badge/Hireable-true-green)
 
 
