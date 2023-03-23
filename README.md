@@ -1,7 +1,7 @@
 # Hi there, I'm Gavin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a> 
 
-[![Website](https://img.shields.io/website?)](https://github.com/Esa-Gavin)
 ![Hiring Status](https://img.shields.io/badge/Hireable-true-green)
+![Waka Readme](https://github.com/007tom/007tom/workflows/Waka%20Readme/badge.svg)
 
 
 ## I'm a JavaScript Developer!!
