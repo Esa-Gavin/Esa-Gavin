@@ -1,18 +1,18 @@
-# Hi there, I'm Gavin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a> 
+### Hi there, I'm Gavin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a> 
 
 ![Hiring Status](https://img.shields.io/badge/Hireable-true-green)
 ![Waka Readme](https://github.com/007tom/007tom/workflows/Waka%20Readme/badge.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=Esa-Gavin&label=Profile%20views&color=0e75b6&style=flat)
  
 
-## I'm a JavaScript Developer!!
+### I'm a JavaScript Developer!!
 
 - 🌱 I’m currently learning react native 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Make contributions to open source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -28,7 +28,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 &nbsp;
 
-## Github Stats
+### Github Stats
 
 <!--START_SECTION:waka-->
 ```text
