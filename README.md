@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=GitHub&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Esa-Gavin)
 
 
-## I'm a JavaScript and Python Developer!!
+## I'm a JavaScript Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning react native 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Make contributions to open source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
