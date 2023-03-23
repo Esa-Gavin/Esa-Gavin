@@ -1,6 +1,7 @@
 # Hi there, I'm Gavin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a> 
 
 [![Website](https://img.shields.io/website?label=GitHub&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Esa-Gavin)
+![Hiring Status](https://img.shields.io/badge/Hireable-true-green)
 
 
 ## I'm a JavaScript Developer!!
@@ -33,8 +34,19 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 &nbsp;
 
+## Github Stats
 
 <!--START_SECTION:waka-->
+```text
+From: 15 March 2023 - To: 22 March 2023
+
+TypeScript   6 hrs 53 mins   █████████████████▒░░░░░░░   69.74 %
+Prisma       1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+Bash         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+C            23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+JavaScript   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+```
 <!--END_SECTION:waka-->
 
 <br />
