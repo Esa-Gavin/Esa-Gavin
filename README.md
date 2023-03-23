@@ -1,11 +1,11 @@
-## Hi there, I'm Gavin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a> 
+## Hi 👋, I'm Gavin  
 
 ![Hiring Status](https://img.shields.io/badge/Hireable-true-green)
 ![Waka Readme](https://github.com/007tom/007tom/workflows/Waka%20Readme/badge.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=Esa-Gavin&label=Profile%20views&color=0e75b6&style=flat)
  
 
-### I'm a JavaScript Developer!!
+### A JavaScript Developer from Kenya 🇰🇪
 
 - 🌱 I’m currently learning react native 🤣
 - 👯 I’m looking to collaborate with other content creators
