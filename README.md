@@ -31,9 +31,13 @@
 ### Github Stats
 
 <!--START_SECTION:waka-->
-```text
 
+```text
+JavaScript   1 hr 57 mins    ████████████████████████▒   97.81 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br />
