@@ -2,6 +2,7 @@
 
 ![Hiring Status](https://img.shields.io/badge/Hireable-true-green)
 ![Waka Readme](https://github.com/007tom/007tom/workflows/Waka%20Readme/badge.svg)
+ <p> <img src="https://komarev.com/ghpvc/?username=Esa-Gavin&label=Profile%20views&color=0e75b6&style=flat" alt="esa-gavin" /> </p>
 
 
 ## I'm a JavaScript Developer!!
