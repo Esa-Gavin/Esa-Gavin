@@ -5,20 +5,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Esa-Gavin&label=Profile%20views&color=0e75b6&style=flat)
  
 
-
 ## I'm a JavaScript Developer!!
 
 - 🌱 I’m currently learning react native 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Make contributions to open source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
-
-## Connect with me:
-
-&nbsp;&nbsp;
-[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/gavin-kariuki/#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gavin-kariuki/#gh-dark-mode-only)
-
 
 ## Languages and Tools:
 
@@ -40,14 +32,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 15 March 2023 - To: 22 March 2023
 
-TypeScript   6 hrs 53 mins   █████████████████▒░░░░░░░   69.74 %
-Prisma       1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-Bash         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-C            23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-JavaScript   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 <!--END_SECTION:waka-->
 
