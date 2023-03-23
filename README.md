@@ -34,10 +34,7 @@
 &nbsp;
 
 
-### Hours coded this week:
-&nbsp;&nbsp;
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <br />
