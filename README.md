@@ -1,4 +1,4 @@
-### Hi there, I'm Gavin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a> 
+## Hi there, I'm Gavin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a> 
 
 ![Hiring Status](https://img.shields.io/badge/Hireable-true-green)
 ![Waka Readme](https://github.com/007tom/007tom/workflows/Waka%20Readme/badge.svg)
