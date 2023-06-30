@@ -7,7 +7,7 @@
 
 ### A passionate JavaScript developer from Kenya 🇰🇪
 
-- 🌱 I’m currently learning react native 🤣
+- 🌱 I’m currently learning PHP
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Make contributions to open source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
