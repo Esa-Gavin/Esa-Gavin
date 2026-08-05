@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning PHP and Javascript
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Make contributions to open source projects
+- 🥅 2026 Goals: Make contributions to open source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Languages and Tools:
